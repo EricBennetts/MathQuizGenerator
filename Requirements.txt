@@ -1,4 +1,4 @@
 How many questions should there be: 10
 Should the operands range from 0 to 100(1 for yes, 0 for no): 1
 Should there be floating point arithmetic: 0
-Should there be fixed number arithmetic: 1
+Should there be mixed number arithmetic: 1
